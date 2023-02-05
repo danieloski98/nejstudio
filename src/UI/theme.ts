@@ -14,3 +14,5 @@ import { Colors, Typography, Spacings } from 'react-native-ui-lib';
 Colors.loadColors({});
 Typography.loadTypographies({})
 Spacings.loadSpacings({})
+
+export { Colors, Typography, Spacings };
